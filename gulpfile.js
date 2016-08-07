@@ -243,7 +243,7 @@ gulp.task('clean', function() {
 // Watch files for changes & reload
 gulp.task('serve', ['styles', 'js'], function() {
   browserSync({
-    port: 5000,
+    port: process.env.PORT || 5000,
     notify: false,
     logPrefix: 'PSK',
     snippetOptions: {
