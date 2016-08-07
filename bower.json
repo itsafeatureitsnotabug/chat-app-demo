@@ -9,7 +9,8 @@
     "platinum-elements": "PolymerElements/platinum-elements#^1.1.0",
     "polymer": "Polymer/polymer#^1.2.0",
     "immutable": "^3.8.1",
-    "redux": "https://cdnjs.cloudflare.com/ajax/libs/redux/3.5.2/redux.js"
+    "redux": "https://cdnjs.cloudflare.com/ajax/libs/redux/3.5.2/redux.js",
+    "ws-poly": "https://github.com/itsafeatureitsnotabug/websocket-polymer.git"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
