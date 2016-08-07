@@ -37,13 +37,13 @@
   },
   "scripts": {
     "test": "gulp test:local",
-    "start": "gulp serve",
-    "postinstall": "gulp default"
+    "start": "gulp serve"
   },
   "engines": {
     "node": ">=0.10.0"
   },
   "dependencies": {
+    "es6-promise": "^3.2.1",
     "gulp": "^3.9.1"
   }
 }
