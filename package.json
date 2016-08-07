@@ -37,7 +37,8 @@
   },
   "scripts": {
     "test": "gulp test:local",
-    "start": "gulp serve"
+    "start": "gulp serve",
+    "postinstall": "gulp default"
   },
   "engines": {
     "node": ">=0.10.0"
