@@ -1,6 +1,6 @@
 # chat-app-demo
 =======
-TODO :: REDO this WHOLE Thing
+This is demo application created to showcase websockets implemenation using webcomponents. The component "<ws-poly>" is a simple chat application that connects to a websocket server of your choice and sends messages per user request. Enjoy !
 
 
 ## Installation
@@ -22,3 +22,9 @@ Run Command :
 ```
 # 
 ```
+
+## References : 
+Polymer starter kit. 
+Google Codelabs : https://codelabs.developers.google.com/codelabs/polymer-es2015/index.html?index=..%2F..%2Findex#0
+http://polymer.github.io
+https://github.com/PolymerElements/polymer-starter-kit
